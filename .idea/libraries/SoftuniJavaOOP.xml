@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="SoftuniJavaOOP">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Working with Abstraction/out/production/SoftuniJavaOOP/CardRank.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Working with Abstraction/out/production/SoftuniJavaOOP/CardsWithPower.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Working with Abstraction/out/production/SoftuniJavaOOP/JediGalaxy.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Working with Abstraction/out/production/SoftuniJavaOOP/GreedyTimes.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Working with Abstraction/out/production/SoftuniJavaOOP/TrafficLights.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Working with Abstraction/out/production/SoftuniJavaOOP/CardSuit.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

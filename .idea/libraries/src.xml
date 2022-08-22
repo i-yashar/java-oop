@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="src">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Working with Abstraction/src/Bag.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Working with Abstraction/src/Main.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Working with Abstraction/src/CardSuit.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Working with Abstraction/src/CardRank.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Working with Abstraction/src/Light.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

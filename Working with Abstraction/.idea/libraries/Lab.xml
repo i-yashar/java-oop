@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Lab">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Working with Abstraction/src/Lab/HotelReservation.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Working with Abstraction/src/Lab/RhombusOfStars.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Working with Abstraction/src/Lab/StudentSystem.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Working with Abstraction/src/Lab/PointInRectangle.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
